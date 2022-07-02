@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-integrated-tester",
+  "version": "1.0.0",
+  "description": "Serviço para at",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "keywords": [
+    "integrated",
+    "tests",
+    "websocket",
+    "server",
+    "client"
+  ],
+  "author": "GGMG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
